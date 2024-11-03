@@ -1,0 +1,58 @@
+body{
+    background-color:#F4E3B2;
+}
+h1{
+    color:#050517;
+}
+
+h1{
+    text-align: center;
+}
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#hello{
+    color:#CF5C36
+}
+
+hr{
+    color:rgb(0, 0, 0);
+}
+
+h1{
+    background-color: aquamarine;
+}
+#para{
+    text-align: center;
+}
+#para{
+    color:chocolate;
+}
+#myid{
+    font-family: cursive;
+}
+#namee{
+    font-family:Arial, Helvetica, sans-serif;
+}
+#namee{
+    text-align: center;
+}
+#namee{
+    color: blue;
+}
+#namee{
+background-color:red;
+}
+#namee{
+    size: 1000px;;
+}
+#scope{
+    align-content:center ;
+}
+#love{
+    text-align: center;
+}
+#hen{
+    align-text: center;
+}
